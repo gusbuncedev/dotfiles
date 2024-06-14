@@ -112,3 +112,4 @@ source $ZSH/oh-my-zsh.sh
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 source /opt/homebrew/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source /opt/homebrew/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+export PATH=/opt/homebrew/bin:/Users/augustusbunce/.cargo/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
